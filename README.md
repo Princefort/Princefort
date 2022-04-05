@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Princefort
-- 👀 I’m interested in code 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning java,CSS and html
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me princezoniclfreeman@gmail.con
